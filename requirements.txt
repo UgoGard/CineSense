@@ -1,0 +1,10 @@
+pytube
+moviepy
+speechrecognition
+textblob
+deep_translator
+spacy
+nltk
+nrclex
+aiofiles
+aiomultiprocess
